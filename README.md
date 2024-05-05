@@ -82,7 +82,7 @@ python evaluate.py \
 
 ## Contact and Citation
 
-For any questions about the code or the methodology, please feel free to contact us or open an issue. If you find this repository useful for your research, please consider citing our paper:
+For any questions about the code or the methodology, please feel free to [contact us](mailto:tiz.labruna@gmail.com) or open an issue. If you find this repository useful for your research, please consider citing our paper:
 
 ```
 @article{labruna2024retrieve,

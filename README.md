@@ -2,7 +2,7 @@
 
 Welcome to the official repository for **Adapt-LLM**, an innovative approach to question answering that trains a Large Language Model (LLM) to determine when to respond directly and when to signal the need for additional context using a special token, `<RET>`.
 
-![The inference process of ADAPT-LLM](adapt-llm_process.png)
+![The inference process of ADAPT-LLM](adaptive_retrieval.pdf)
 
 ## Installation
 

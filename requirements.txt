@@ -1,0 +1,13 @@
+accelerate
+appdirs
+beir
+bitsandbytes
+black
+datasets
+fire
+gradio
+loralib
+openai
+sentencepiece
+torch
+transformers

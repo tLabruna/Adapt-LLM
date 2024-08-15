@@ -80,6 +80,10 @@ python evaluate.py \
     --out_dir results_nq/hybrid_retrieve
 ```
 
+## License
+
+The resources included in this repository are licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt the data, provided that appropriate credit is given. For more information, see the [Creative Commons License](https://creativecommons.org/licenses/by/4.0/deed.en).
+
 ## Contact and Citation
 
 For any questions about the code or the methodology, please feel free to [contact us](mailto:tiz.labruna@gmail.com) or open an issue. If you find this repository useful for your research, please consider citing our paper:
